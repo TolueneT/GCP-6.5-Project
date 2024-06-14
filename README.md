@@ -14,7 +14,9 @@ gcloud config set project pistis-gcp-training
 
 ## Step 2: Create a VPC
 
-![Screenshots](images/vpc1.JPG)
+![Screenshots](https://github.com/TolueneT/GCP-6.5-Project/blob/master/assets/images/vpc1.JPG)
+![vpc1](https://github.com/TolueneT/GCP-6.5-Project/assets/163625665/269db915-5055-4eaf-8022-15f05049b601)
+
 
 ## Step 3: Create Subnets
 
