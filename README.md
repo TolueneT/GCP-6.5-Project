@@ -1,3 +1,4 @@
+
 # **GCP 6.5 Project Documentation**
 
 # **Project overview :** Web Server Infrastructure with Load Balancing.
@@ -16,6 +17,8 @@ gcloud config set project pistis-gcp-training
 
 ![Screenshots](https://github.com/TolueneT/GCP-6.5-Project/blob/master/assets/images/vpc1.JPG)
 ![vpc1](https://github.com/TolueneT/GCP-6.5-Project/assets/163625665/269db915-5055-4eaf-8022-15f05049b601)
+<img src=‘https://github.com/TolueneT/GCP-6.5-Project/assets/163625665/269db915-5055-4eaf-8022-15f05049b601’ alt=‘vpcimg’ />
+![check out](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)
 
 
 ## Step 3: Create Subnets
